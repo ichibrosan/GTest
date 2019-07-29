@@ -1,0 +1,3 @@
+/home/pi/Project/GTest/CMakeFiles/rebuild_cache.dir
+/home/pi/Project/GTest/CMakeFiles/runTests.dir
+/home/pi/Project/GTest/CMakeFiles/edit_cache.dir
